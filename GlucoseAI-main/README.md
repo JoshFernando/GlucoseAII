@@ -1,4 +1,4 @@
-<!--! Replace `MintBuddy`, `MintBuddy`, `project_description`,`technology`-->
+<!--! Replace `GlucoseAI`, `GlucoseAI`, `project_description`,`technology`-->
 
 <a name="readme-top"></a>
 
